@@ -7924,11 +7924,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\_DELETE_\\_Gopilot_\\tests\\Api.Tests\\Api.Tests.csproj",
+      "projectUniqueName": "D:\\_DELETE_\\_CoPilot_\\tests\\Api.Tests\\Api.Tests.csproj",
       "projectName": "Api.Tests",
-      "projectPath": "D:\\_DELETE_\\_Gopilot_\\tests\\Api.Tests\\Api.Tests.csproj",
+      "projectPath": "D:\\_DELETE_\\_CoPilot_\\tests\\Api.Tests\\Api.Tests.csproj",
       "packagesPath": "C:\\Users\\barulan\\.nuget\\packages\\",
-      "outputPath": "D:\\_DELETE_\\_Gopilot_\\tests\\Api.Tests\\obj\\",
+      "outputPath": "D:\\_DELETE_\\_CoPilot_\\tests\\Api.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "d:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -7949,8 +7949,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\_DELETE_\\_Gopilot_\\src\\Api\\Api.csproj": {
-              "projectPath": "D:\\_DELETE_\\_Gopilot_\\src\\Api\\Api.csproj"
+            "D:\\_DELETE_\\_CoPilot_\\src\\Api\\Api.csproj": {
+              "projectPath": "D:\\_DELETE_\\_CoPilot_\\src\\Api\\Api.csproj"
             }
           }
         }

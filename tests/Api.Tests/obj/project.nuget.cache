@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oJsjAXPZ41E=",
+  "dgSpecHash": "pBxhIU7aFM8=",
   "success": true,
-  "projectFilePath": "D:\\_DELETE_\\_Gopilot_\\tests\\Api.Tests\\Api.Tests.csproj",
+  "projectFilePath": "D:\\_DELETE_\\_CoPilot_\\tests\\Api.Tests\\Api.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\barulan\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\barulan\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
@@ -149,9 +149,9 @@
       "code": "NU1608",
       "level": "Warning",
       "message": "Detected package version outside of dependency constraint: AutoMapper.Extensions.Microsoft.DependencyInjection 12.0.1 requires AutoMapper (= 12.0.1) but version AutoMapper 13.0.1 was resolved.",
-      "projectPath": "D:\\_DELETE_\\_Gopilot_\\tests\\Api.Tests\\Api.Tests.csproj",
+      "projectPath": "D:\\_DELETE_\\_CoPilot_\\tests\\Api.Tests\\Api.Tests.csproj",
       "warningLevel": 1,
-      "filePath": "D:\\_DELETE_\\_Gopilot_\\tests\\Api.Tests\\Api.Tests.csproj",
+      "filePath": "D:\\_DELETE_\\_CoPilot_\\tests\\Api.Tests\\Api.Tests.csproj",
       "libraryId": "AutoMapper",
       "targetGraphs": [
         "net8.0"
