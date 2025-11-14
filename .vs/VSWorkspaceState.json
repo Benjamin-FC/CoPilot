@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\docs",
+    "\\src",
+    "\\src\\Api",
+    "\\src\\Api\\Controllers",
+    "\\src\\Api\\Validation"
+  ],
+  "SelectedNode": "\\src\\Api\\Program.cs",
+  "PreviewInSolutionExplorer": false
+}
