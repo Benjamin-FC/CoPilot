@@ -17,6 +17,8 @@ docs/
 │   └── integration-loops.md           # ✨ Loops.so integration design
 ├── product/                           # Product documentation
 │   └── user-guide.md                  # ✨ Complete product guide
+├── devops/                            # DevOps documentation
+│   └── stories-and-tasks.md           # ✨ Complete DevOps stories
 ├── tech-stack/                        # Technology stack details
 │   └── overview.md
 ├── plan/                              # Project planning documents
@@ -50,6 +52,9 @@ docs/
 - **[Product User Guide](./product/user-guide.md)** - Features, workflows, deployment, troubleshooting
 - **[Detailed Plan](./plan/detailed-plan.md)** - Project roadmap
 - **[Current Tasks](./tasks/task-list.md)** - Task tracking
+
+### For DevOps Engineers
+- **[DevOps Stories & Tasks](./devops/stories-and-tasks.md)** - Complete CI/CD, IaC, monitoring stories
 
 ## 📋 Project Overview
 
